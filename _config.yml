@@ -2,12 +2,12 @@
 title: Maison Vet
 subtitle: CLÍNICA VETERINÁRIA
 email: clinica.maisonvet@gmail.com
-description: Clinica veterinária em valinhos.
+description: Clínica veterinária em Valinhos.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: R. ASSUERO PÊRA, 5 - JD. BOA ESPERANÇA
-city: VALINHOS
+street_address: Rua Assuero Pêra, 5 - Jd. Boa Esperança
+city: Valinhos
 state: SP
 zip_code: 13270-383
 phone: (19) 3849-6944

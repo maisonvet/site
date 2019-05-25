@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Como Chegar
 nav-menu: true
 ---
 
@@ -350,7 +350,7 @@ Finally, this is a <a href="#">link</a>.</p>
 		<!-- Break -->
 		<div class="12u$">
 			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
+				<li><input type="submit" value="Enviar" class="special" /></li>
 				<li><input type="reset" value="Reset" /></li>
 			</ul>
 		</div>
