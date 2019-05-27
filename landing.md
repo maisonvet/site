@@ -21,7 +21,7 @@ nav-menu: true
 				</header>
 				<p>As consultas são feitas com agendamento prévio. As consultas sem agendamento serão feitas por ordem de chegada. Para a sua comodidade atendemos também em domicílio. </p>
 				<ul class="actions">
-					<li><a href="contact" class="button">Agende agora</a></li>
+					<li><a href="#contact" class="button">Agende agora</a></li>
 				</ul>
 			</div>
 		</div>
@@ -37,7 +37,7 @@ nav-menu: true
 				</header>
 				<p>Realizamos todos os tipos de Exames Laboratoriais para cães e gatos e Ultrassonografia em pacientes da clínica.</p>
 				<ul class="actions">
-					<li><a href="contact" class="button">Agende agora</a></li>
+					<li><a href="#contact" class="button">Agende agora</a></li>
 				</ul>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ nav-menu: true
 				</header>
 				<p>Trabalhamos com Vacinas Importadas de cães e gatos.</p>
 				<ul class="actions">
-					<li><a href="contact" class="button">Agende agora</a></li>
+					<li><a href="#contact" class="button">Agende agora</a></li>
 				</ul>
 			</div>
 		</div>
