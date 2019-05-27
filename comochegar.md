@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Como Chegar
-description: 'Rua Assuero Pêra, 5 - Jd. Boa Esperança
-Valinhos	'
+description: 'Rua Assuero Pêra, 5 - Jd. Boa Esperança - Valinhos'
 nav-menu: true
 ---
 

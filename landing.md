@@ -1,7 +1,7 @@
 ---
-title: Nossos serviços
+title: Nossos Serviços
 layout: landing
-description: 'Consultas, Exames, Vacinas, Cirurgias, Farmácia e Pet Shop'
+description: 'Consultas, Vacinas, Cirurgias, Exames, Farmácia e Pet Shop'
 image: 
 nav-menu: true
 ---
