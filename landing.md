@@ -1,7 +1,7 @@
 ---
 title: Nossos serviços
 layout: landing
-description: 'Consultas, Exames, Vacinas, Cirurgias, Farmácia e pet shop'
+description: 'Consultas, Exames, Vacinas, Cirurgias, Farmácia e Pet Shop'
 image: 
 nav-menu: true
 ---
@@ -35,7 +35,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Exames</h3>
 				</header>
-				<p>Realizamos todos os tipos de Exames Laboratoriais para cães e gatos e Ultrassonografia em pacientes da clinica.</p>
+				<p>Realizamos todos os tipos de Exames Laboratoriais para cães e gatos e Ultrassonografia em pacientes da clínica.</p>
 				<ul class="actions">
 					<li><a href="contact" class="button">Agende agora</a></li>
 				</ul>
