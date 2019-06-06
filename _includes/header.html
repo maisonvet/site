@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><span>
+	<a href="tel:{{ site.phone }}" class="logo"><span>
 		{% if site.street_address %}
 			{{ site.street_address }} 
 		{% endif %}
@@ -13,7 +13,7 @@
 		{% if site.state %}
 			{{ site.state }} 
 		{% endif %}
-		</span> | TELEFONE: <span>  {{ site.phone }} </span></a>
+		</span> | {{ site.phone }}</a>
 
 		<ul class="icons" style="text-align:right">
 			{% if site.twitter_url %}
