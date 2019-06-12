@@ -2,7 +2,7 @@
 layout: post
 title: A Clínica
 description: Nosso objetivo é cuidar com amor e carinho de quem queremos bem.
-image: 
+image: assets/images/dog2.jpg
 nav-menu: true
 ---
 
