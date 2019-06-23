@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Maison Vet
-landing-title: 'Maison Vet - Clínica Veterinária'
+landing-title: ' - Clínica Veterinária'
 description: null
 image: null
 author: null

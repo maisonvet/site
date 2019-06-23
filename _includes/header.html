@@ -1,9 +1,11 @@
+  
 <!-- Wrapper -->
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="tel:{{ site.phone }}" class="logo"><span>
+<header id="header" {% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<img src="assets/images/logo.jpg" alt="" style= "object-fit: contain"/>
+	<a href="tel:{{ site.phone }}" class="logo"><span style="color:black">
 		{% if site.street_address %}
 			{{ site.street_address }} 
 		{% endif %}
@@ -12,8 +14,8 @@
 		{% endif %}
 		{% if site.state %}
 			{{ site.state }} 
-		{% endif %}
-		</span> | {{ site.phone }}</a>
+		{% endif %} | {{ site.phone }}
+		</span></a>
 
 		<ul class="icons" style="text-align:right">
 			{% if site.twitter_url %}
@@ -48,7 +50,7 @@
 			{% endif %}
 		</ul>
 		<nav>
-		<a href="#menu">Menu</a>
+		<a href="#menu" style="color:black" >Menu</a>
 	</nav>
 </header>
 

@@ -77,10 +77,9 @@
 	select,
 	textarea {
 		@include vendor('appearance', 'none');
-		background: _palette(border-bg);
+		background: _palette(bg-textarea);
 		border: none;
 		border-radius: 0;
-		color: inherit;
 		display: block;
 		outline: 0;
 		padding: 0 1em;

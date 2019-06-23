@@ -7,7 +7,7 @@
 /* Banner */
 
 	#banner {
-		@include vendor('align-items', 'center');
+		@include vendor('align-items', 'flex-end');
 		@include vendor('background-image', 'url("../images/banner.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
@@ -28,7 +28,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: _palette(bg);
+			background-color: _palette(bg-header);
 			content: '';
 			display: block;
 			height: 100%;
@@ -124,17 +124,20 @@
 		}
 
 		@include breakpoint(large) {
+			@include vendor('align-items', 'flex-end');
 			background-attachment: scroll;
 		}
 
 		@include breakpoint(small) {
+			@include vendor('align-items', 'flex-end');
 			@include padding(3em, 0, (2em, 0, 0, 0));
+			
 			height: auto;
 			margin-bottom: -2.75em;
 			max-height: none;
 			min-height: 0;
 			top: -2.75em;
-
+ 
 			h1 {
 				font-size: 2em;
 			}
@@ -158,6 +161,7 @@
 		}
 
 		@include breakpoint(xsmall) {
+			@include vendor('align-items', 'flex-end');
 			@include padding(4em, 0, (2em, 0, 0, 0));
 
 			> .inner {
@@ -171,6 +175,7 @@
 			}
 
 			&.major {
+				
 				@include padding(6em, 0, (2em, 0, 0, 0));
 			}
 		}
