@@ -1,89 +1,23 @@
 ---
-title: Nossos Serviços
 layout: page
-description: 'Consultas, Vacinas, Cirurgias, Exames, Farmácia e Pet Shop'
-image: 
+title: Como Chegar
+description: 'Rua Assuero Pêra, 5 - Jd. Boa Esperança - Valinhos'
 nav-menu: true
+image: assets/images/vem.jpg
+
 ---
 
 <!-- Main -->
-<div id="main">
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="aclinica.html" class="image">
-			<img src="assets/images/consulta.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Consultas</h3>
-				</header>
-				<p>As consultas são feitas com agendamento prévio. As consultas sem agendamento serão feitas por ordem de chegada. Para a sua comodidade atendemos também em domicílio. </p>
-				<ul class="actions">
-					<li><a href="#contact" class="button">Agende agora</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="aclinica.html" class="image">
-			<img src="assets/images/examen.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Exames</h3>
-				</header>
-				<p>Realizamos todos os tipos de Exames Laboratoriais para cães e gatos e Ultrassonografia em pacientes da clínica.</p>
-				<ul class="actions">
-					<li><a href="#contact" class="button">Agende agora</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="aclinica.html" class="image">
-			<img src="assets/images/dog1.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Vacinas</h3>
-				</header>
-				<p>Trabalhamos com Vacinas Importadas de cães e gatos.</p>
-				<ul class="actions">
-					<li><a href="#contact" class="button">Agende agora</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="aclinica.html" class="image">
-			<img src="assets/images/chirugia.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-			<h2>Cirurgias</h2>
-				</header>
-		<p>Cirurgias eletivas e não eletivas.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="aclinica.html" class="image">
-			<img src="assets/images/pet2.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-			<h2>Farmácia e pet shop</h2>
-				</header>
-		<p>Para maior conforto de nossos clientes, nossa clínica possuí um Pet Shop e uma farmácia Veterinária para que seu Pet já saia com o medicamento necessário para seu tratamento.</p>
-			</div>
-		</div>
-	</section>
+<div id="main" class="alt">
 
-</section>
-</div>
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major2">
+			<h1>Como Chegar</h1>
+			<div >
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.3552405907435!2d-47.00857198454218!3d-22.97396088497763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8cd8cab6fdeb5%3A0xa5be1071d33362d2!2sMaison+Vet!5e0!3m2!1sfr!2sbr!4v1558746872664!5m2!1sfr!2sbr" width="600" height="450"  allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!4v1558746996326!6m8!1m7!1snsc1VvC4VkUlIzU_IpAwDA!2m2!1d-22.97379914153152!2d-47.00645684046578!3f151.4662135558021!4f-3.060344097193834!5f0.7820865974627469" width="600" height="450"  allowfullscreen></iframe>
+			</div>
+
+		</header>

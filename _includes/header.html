@@ -4,8 +4,8 @@
 
 <!-- Header -->
 <header id="header" {% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<img src="assets/images/logo.jpg" alt="" style= "object-fit: contain"/>
-	<a href="tel:{{ site.phone }}" class="logo"><span style="color:black">
+	<a href="/" style= "height: 100%" class="logo"><img src="assets/images/logo.jpg" alt="" style= "height: 100%"/></a>
+	<a href="tel:{{ site.phone }}" class="logo"> <span style="color:black">
 		{% if site.street_address %}
 			{{ site.street_address }} 
 		{% endif %}

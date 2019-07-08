@@ -72,12 +72,12 @@
 	header {
 		&.major {
 			font-family: Subway;
-			text-shadow: 0.5px 0.5px #5e5e5e;
+			// text-shadow: 0.5px 0.5px #5e5e5e;
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
 			width: max-content;
-      max-width: 100%;
+      		max-width: 100%;
 			margin-bottom: _size(element-margin);
 
 			> :first-child {
